@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "testpython"
+version = "0.1.0"
+description = "xddd"
+authors = ["Jan Lesisz"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+rich = "^13.9.2"
+ascii-graph = "^1.5.1"
+tqdm = "^4.67.1"
+termcolor = "^2.5.0"
+pillow = "^11.0.0"
+numpy = "1.23"
+matplotlib = "^3.10.0"
+numba = "^0.60.0"
+jupyterlab = "^4.3.4"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+selenium = "^4.27.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
