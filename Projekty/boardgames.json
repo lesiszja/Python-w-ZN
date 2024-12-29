@@ -1,0 +1,702 @@
+{
+    "Brass: Birmingham": {
+        "rank": "1",
+        "name": "Brass: Birmingham",
+        "year": "(2018)",
+        "rating": "8.408",
+        "description": "Build networks, grow industries, and navigate the world of the Industrial Revolution."
+    },
+    "Pandemic Legacy: Season 1": {
+        "rank": "2",
+        "name": "Pandemic Legacy: Season 1",
+        "year": "(2015)",
+        "rating": "8.373",
+        "description": "Mutating diseases are spreading around the world - can your team save humanity?"
+    },
+    "Ark Nova": {
+        "rank": "3",
+        "name": "Ark Nova",
+        "year": "(2021)",
+        "rating": "8.340",
+        "description": "Plan and build a modern, scientifically managed zoo to support conservation projects."
+    },
+    "Gloomhaven": {
+        "rank": "4",
+        "name": "Gloomhaven",
+        "year": "(2017)",
+        "rating": "8.339",
+        "description": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!"
+    },
+    "Twilight Imperium: Fourth Edition": {
+        "rank": "5",
+        "name": "Twilight Imperium: Fourth Edition",
+        "year": "(2017)",
+        "rating": "8.235",
+        "description": "Build an intergalactic empire through trade, research, conquest and grand politics."
+    },
+    "Dune: Imperium": {
+        "rank": "6",
+        "name": "Dune: Imperium",
+        "year": "(2020)",
+        "rating": "8.229",
+        "description": "Influence, intrigue, and combat in the universe of Dune."
+    },
+    "Terraforming Mars": {
+        "rank": "7",
+        "name": "Terraforming Mars",
+        "year": "(2016)",
+        "rating": "8.205",
+        "description": "Compete with rival CEOs to make Mars habitable and build your corporate empire."
+    },
+    "War of the Ring: Second Edition": {
+        "rank": "8",
+        "name": "War of the Ring: Second Edition",
+        "year": "(2011)",
+        "rating": "8.194",
+        "description": "The Fellowship and the Free Peoples clash with Sauron over the fate of Middle-earth."
+    },
+    "Star Wars: Rebellion": {
+        "rank": "9",
+        "name": "Star Wars: Rebellion",
+        "year": "(2016)",
+        "rating": "8.169",
+        "description": "Strike from your hidden base as the Rebels\u2014or find and destroy it as the Empire."
+    },
+    "Spirit Island": {
+        "rank": "10",
+        "name": "Spirit Island",
+        "year": "(2017)",
+        "rating": "8.145",
+        "description": "Island Spirits join forces using elemental powers to defend their home from invaders."
+    },
+    "Gloomhaven: Jaws of the Lion": {
+        "rank": "11",
+        "name": "Gloomhaven: Jaws of the Lion",
+        "year": "(2020)",
+        "rating": "8.144",
+        "description": "Vanquish monsters with strategic cardplay in a 25-scenario Gloomhaven campaign."
+    },
+    "Gaia Project": {
+        "rank": "12",
+        "name": "Gaia Project",
+        "year": "(2017)",
+        "rating": "8.106",
+        "description": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species."
+    },
+    "Twilight Struggle": {
+        "rank": "13",
+        "name": "Twilight Struggle",
+        "year": "(2005)",
+        "rating": "8.061",
+        "description": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR."
+    },
+    "Through the Ages: A New Story of Civilization": {
+        "rank": "14",
+        "name": "Through the Ages: A New Story of Civilization",
+        "year": "(2015)",
+        "rating": "8.044",
+        "description": "Rewrite history as you build up your civilization in this epic card drafting game!"
+    },
+    "The Castles of Burgundy": {
+        "rank": "15",
+        "name": "The Castles of Burgundy",
+        "year": "(2011)",
+        "rating": "8.019",
+        "description": "Plan, trade, and build your Burgundian estate to prosperity and prominence."
+    },
+    "Great Western Trail": {
+        "rank": "16",
+        "name": "Great Western Trail",
+        "year": "(2016)",
+        "rating": "8.012",
+        "description": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City."
+    },
+    "Scythe": {
+        "rank": "17",
+        "name": "Scythe",
+        "year": "(2016)",
+        "rating": "7.979",
+        "description": "Five factions vie for dominance in a war-torn, mech-filled, dieselpunk 1920s Europe."
+    },
+    "Eclipse: Second Dawn for the Galaxy": {
+        "rank": "18",
+        "name": "Eclipse: Second Dawn for the Galaxy",
+        "year": "(2020)",
+        "rating": "7.977",
+        "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy."
+    },
+    "7 Wonders Duel": {
+        "rank": "19",
+        "name": "7 Wonders Duel",
+        "year": "(2015)",
+        "rating": "7.968",
+        "description": "Science? Military? What will you draft to win this head-to-head version of 7 Wonders?"
+    },
+    "Dune: Imperium \u2013 Uprising": {
+        "rank": "20",
+        "name": "Dune: Imperium \u2013 Uprising",
+        "year": "(2023)",
+        "rating": "7.966",
+        "description": "Deploy agents, build your deck, and engage in strategic battles to control Arrakis."
+    },
+    "Brass: Lancashire": {
+        "rank": "21",
+        "name": "Brass: Lancashire",
+        "year": "(2007)",
+        "rating": "7.963",
+        "description": "Test your economic mettle as you build and network in the Industrial Revolution."
+    },
+    "Nemesis": {
+        "rank": "22",
+        "name": "Nemesis",
+        "year": "(2018)",
+        "rating": "7.952",
+        "description": "Survive an alien-infested spaceship, but beware of other players and their agendas!"
+    },
+    "Clank! Legacy: Acquisitions Incorporated": {
+        "rank": "23",
+        "name": "Clank! Legacy: Acquisitions Incorporated",
+        "year": "(2019)",
+        "rating": "7.948",
+        "description": "\"Go forth, be bold, and ACQUIRE!\" in this campaign version of \"Clank!\""
+    },
+    "A Feast for Odin": {
+        "rank": "24",
+        "name": "A Feast for Odin",
+        "year": "(2016)",
+        "rating": "7.943",
+        "description": "Puzzle together the life of a Viking village as you hunt, farm, craft, and explore."
+    },
+    "Concordia": {
+        "rank": "25",
+        "name": "Concordia",
+        "year": "(2013)",
+        "rating": "7.937",
+        "description": "Merchants build and trade throughout the Roman Empire to please the Gods."
+    },
+    "Frosthaven": {
+        "rank": "26",
+        "name": "Frosthaven",
+        "year": "(2022)",
+        "rating": "7.915",
+        "description": "Adventure in the frozen north and build up your outpost throughout an epic campaign."
+    },
+    "Great Western Trail: Second Edition": {
+        "rank": "27",
+        "name": "Great Western Trail: Second Edition",
+        "year": "(2021)",
+        "rating": "7.906",
+        "description": "Wrangle your herd of cows across the Midwest prairie and deliver it to Kansas City."
+    },
+    "Arkham Horror: The Card Game": {
+        "rank": "28",
+        "name": "Arkham Horror: The Card Game",
+        "year": "(2016)",
+        "rating": "7.901",
+        "description": "Investigate the horrors of Arkham while courting cosmic doom."
+    },
+    "Lost Ruins of Arnak": {
+        "rank": "29",
+        "name": "Lost Ruins of Arnak",
+        "year": "(2020)",
+        "rating": "7.896",
+        "description": "Explore an island to find resources and discover the lost ruins of Arnak."
+    },
+    "Root": {
+        "rank": "30",
+        "name": "Root",
+        "year": "(2018)",
+        "rating": "7.887",
+        "description": "Decide the fate of the forest as woodland factions fight for contrasting goals."
+    },
+    "Terra Mystica": {
+        "rank": "31",
+        "name": "Terra Mystica",
+        "year": "(2012)",
+        "rating": "7.885",
+        "description": "Play fantastical factions.  Expand your influence by terraforming and joining cults."
+    },
+    "Wingspan": {
+        "rank": "32",
+        "name": "Wingspan",
+        "year": "(2019)",
+        "rating": "7.883",
+        "description": "Attract a beautiful and diverse collection of birds to your wildlife preserve."
+    },
+    "Too Many Bones": {
+        "rank": "33",
+        "name": "Too Many Bones",
+        "year": "(2017)",
+        "rating": "7.874",
+        "description": "Toss gobs of unique dice in an epic adventure en route to a final boss showdown."
+    },
+    "Orl\u00e9ans": {
+        "rank": "34",
+        "name": "Orl\u00e9ans",
+        "year": "(2014)",
+        "rating": "7.869",
+        "description": "Craftsmen, scholars & monks can help you reign supreme\u2014but who will turn up to help?"
+    },
+    "Mage Knight Board Game": {
+        "rank": "35",
+        "name": "Mage Knight Board Game",
+        "year": "(2011)",
+        "rating": "7.851",
+        "description": "Build your hero\u2019s spells, abilities, and artifacts as you explore & conquer cities."
+    },
+    "Barrage": {
+        "rank": "36",
+        "name": "Barrage",
+        "year": "(2019)",
+        "rating": "7.848",
+        "description": "Nations vie for hydroelectric dominance in a dystopia where water is power."
+    },
+    "The Crew: Mission Deep Sea": {
+        "rank": "37",
+        "name": "The Crew: Mission Deep Sea",
+        "year": "(2021)",
+        "rating": "7.837",
+        "description": "Dive into the deep sea in this co-operative trick-taking game with variable missions."
+    },
+    "Everdell": {
+        "rank": "38",
+        "name": "Everdell",
+        "year": "(2018)",
+        "rating": "7.835",
+        "description": "Gather resources to develop a harmonious village of woodland critters and structures."
+    },
+    "Viticulture Essential Edition": {
+        "rank": "39",
+        "name": "Viticulture Essential Edition",
+        "year": "(2015)",
+        "rating": "7.831",
+        "description": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited."
+    },
+    "Heat: Pedal to the Metal": {
+        "rank": "40",
+        "name": "Heat: Pedal to the Metal",
+        "year": "(2022)",
+        "rating": "7.797",
+        "description": "Manage your race car's speed to keep from overheating."
+    },
+    "Marvel Champions: The Card Game": {
+        "rank": "41",
+        "name": "Marvel Champions: The Card Game",
+        "year": "(2019)",
+        "rating": "7.794",
+        "description": "Battle Marvel villains with unique teams of iconic heroes in this LCG."
+    },
+    "Food Chain Magnate": {
+        "rank": "42",
+        "name": "Food Chain Magnate",
+        "year": "(2015)",
+        "rating": "7.792",
+        "description": "Strategically hire and manage your workforce to outcompete rival fast food chains."
+    },
+    "Pax Pamir: Second Edition": {
+        "rank": "43",
+        "name": "Pax Pamir: Second Edition",
+        "year": "(2019)",
+        "rating": "7.785",
+        "description": "Swing the tides of \"The Great Game\" as countries vie for control of Afghanistan."
+    },
+    "Underwater Cities": {
+        "rank": "44",
+        "name": "Underwater Cities",
+        "year": "(2018)",
+        "rating": "7.781",
+        "description": "Develop future cities on the seafloor through politics, production, and science."
+    },
+    "Sky Team": {
+        "rank": "45",
+        "name": "Sky Team",
+        "year": "(2023)",
+        "rating": "7.778",
+        "description": "Pilot and co-pilot work together to land planes."
+    },
+    "Kanban EV": {
+        "rank": "46",
+        "name": "Kanban EV",
+        "year": "(2020)",
+        "rating": "7.778",
+        "description": "EV-factory workers optimize and innovate to stand out at the big board meeting."
+    },
+    "Crokinole": {
+        "rank": "47",
+        "name": "Crokinole",
+        "year": "(1876)",
+        "rating": "7.776",
+        "description": "Flick discs and make trick shots in this traditional Canadian dexterity game!"
+    },
+    "Puerto Rico": {
+        "rank": "48",
+        "name": "Puerto Rico",
+        "year": "(2002)",
+        "rating": "7.770",
+        "description": "Ship goods, construct buildings, and choose roles that benefit you more than others."
+    },
+    "Cascadia": {
+        "rank": "49",
+        "name": "Cascadia",
+        "year": "(2021)",
+        "rating": "7.760",
+        "description": "Create the most harmonious ecosystem as you puzzle together habitats and wildlife."
+    },
+    "Caverna: The Cave Farmers": {
+        "rank": "50",
+        "name": "Caverna: The Cave Farmers",
+        "year": "(2013)",
+        "rating": "7.754",
+        "description": "From a simple cave, expand your dwarven home through mining, agriculture, and more."
+    },
+    "Anachrony": {
+        "rank": "51",
+        "name": "Anachrony",
+        "year": "(2017)",
+        "rating": "7.750",
+        "description": "Use Exosuits & time travel to ensure your vision for the future after the cataclysm."
+    },
+    "Pandemic Legacy: Season 0": {
+        "rank": "52",
+        "name": "Pandemic Legacy: Season 0",
+        "year": "(2020)",
+        "rating": "7.749",
+        "description": "Work together during the Cold War to prevent a Soviet bio-threat."
+    },
+    "On Mars": {
+        "rank": "53",
+        "name": "On Mars",
+        "year": "(2020)",
+        "rating": "7.748",
+        "description": "Be a part of the first Martian colony, striving to be the best contributor."
+    },
+    "Blood Rage": {
+        "rank": "54",
+        "name": "Blood Rage",
+        "year": "(2015)",
+        "rating": "7.746",
+        "description": "Ragnar\u00f6k has come! Secure your place in Valhalla in epic Viking battles."
+    },
+    "Agricola": {
+        "rank": "55",
+        "name": "Agricola",
+        "year": "(2007)",
+        "rating": "7.742",
+        "description": "Build your farmstead by sowing fields and raising livestock. But don't forget to eat!"
+    },
+    "Hegemony: Lead Your Class to Victory": {
+        "rank": "56",
+        "name": "Hegemony: Lead Your Class to Victory",
+        "year": "(2023)",
+        "rating": "7.733",
+        "description": "Simulate a whole contemporary nation in this asymmetric, politico-economic euro-game."
+    },
+    "Sleeping Gods": {
+        "rank": "57",
+        "name": "Sleeping Gods",
+        "year": "(2021)",
+        "rating": "7.730",
+        "description": "Voyages of the steamship \"Manticore\" and her crew on the Wandering Sea."
+    },
+    "Cthulhu: Death May Die": {
+        "rank": "58",
+        "name": "Cthulhu: Death May Die",
+        "year": "(2019)",
+        "rating": "7.729",
+        "description": "Disrupt the ritual and slay the Elder Gods in this co-op dice chucker."
+    },
+    "Oathsworn: Into the Deepwood": {
+        "rank": "59",
+        "name": "Oathsworn: Into the Deepwood",
+        "year": "(2022)",
+        "rating": "7.726",
+        "description": "Fight for humanity's survival against unnatural horrors and the Deepwood itself."
+    },
+    "Lisboa": {
+        "rank": "60",
+        "name": "Lisboa",
+        "year": "(2017)",
+        "rating": "7.717",
+        "description": "Compete to reconstruct the city of Lisboa after the great earthquake of 1755."
+    },
+    "Pandemic Legacy: Season 2": {
+        "rank": "61",
+        "name": "Pandemic Legacy: Season 2",
+        "year": "(2017)",
+        "rating": "7.715",
+        "description": "The world is a mystery after a devastating pandemic\u2014where will your team go?"
+    },
+    "Obsession": {
+        "rank": "62",
+        "name": "Obsession",
+        "year": "(2018)",
+        "rating": "7.705",
+        "description": "Renovate an estate, manage servants, and pursue romance in Victorian England."
+    },
+    "Mansions of Madness: Second Edition": {
+        "rank": "63",
+        "name": "Mansions of Madness: Second Edition",
+        "year": "(2016)",
+        "rating": "7.704",
+        "description": "Unravel mysteries in Arkham with your investigative team in this app-guided game."
+    },
+    "Grand Austria Hotel": {
+        "rank": "64",
+        "name": "Grand Austria Hotel",
+        "year": "(2015)",
+        "rating": "7.698",
+        "description": "Serve guests and prepare rooms to be the best hotelier in the Viennese modern age."
+    },
+    "Tzolk'in: The Mayan Calendar": {
+        "rank": "65",
+        "name": "Tzolk'in: The Mayan Calendar",
+        "year": "(2012)",
+        "rating": "7.696",
+        "description": "Lead your people, build monuments and make offerings to earn the favour of the gods."
+    },
+    "Power Grid": {
+        "rank": "66",
+        "name": "Power Grid",
+        "year": "(2004)",
+        "rating": "7.694",
+        "description": "Bid, network, and manage resources in a race to supply the most cities with power."
+    },
+    "Maracaibo": {
+        "rank": "67",
+        "name": "Maracaibo",
+        "year": "(2019)",
+        "rating": "7.682",
+        "description": "Seafarers journey to obtain wealth and fame in the 17th century Caribbean."
+    },
+    "The Quacks of Quedlinburg": {
+        "rank": "68",
+        "name": "The Quacks of Quedlinburg",
+        "year": "(2018)",
+        "rating": "7.677",
+        "description": "Pull ingredients from your stock to make your pot bubble, but hopefully not explode!"
+    },
+    "Clans of Caledonia": {
+        "rank": "69",
+        "name": "Clans of Caledonia",
+        "year": "(2017)",
+        "rating": "7.677",
+        "description": "Lead your unique Scottish clan to economic might via production, trade, and export."
+    },
+    "Le Havre": {
+        "rank": "70",
+        "name": "Le Havre",
+        "year": "(2008)",
+        "rating": "7.675",
+        "description": "Establish a supply chain by collecting resources, building industries, and shipping."
+    },
+    "The Gallerist": {
+        "rank": "71",
+        "name": "The Gallerist",
+        "year": "(2015)",
+        "rating": "7.673",
+        "description": "Amass a fortune, and stake your reputation by operating a lucrative art gallery."
+    },
+    "Paladins of the West Kingdom": {
+        "rank": "72",
+        "name": "Paladins of the West Kingdom",
+        "year": "(2019)",
+        "rating": "7.672",
+        "description": "Invaders are coming from everywhere.  Keep the faith and defend your homeland."
+    },
+    "Star Wars: Imperial Assault": {
+        "rank": "73",
+        "name": "Star Wars: Imperial Assault",
+        "year": "(2014)",
+        "rating": "7.666",
+        "description": "Play as Rebel or Imperial forces to fulfill mission objectives."
+    },
+    "Android: Netrunner": {
+        "rank": "74",
+        "name": "Android: Netrunner",
+        "year": "(2012)",
+        "rating": "7.659",
+        "description": "Megacorporation versus Netrunner in this futuristic cyberpunk game of cat and mouse."
+    },
+    "Age of Innovation": {
+        "rank": "75",
+        "name": "Age of Innovation",
+        "year": "(2023)",
+        "rating": "7.657",
+        "description": "Terraform the world to expand your faction and create innovations on the way."
+    },
+    "Mechs vs. Minions": {
+        "rank": "76",
+        "name": "Mechs vs. Minions",
+        "year": "(2016)",
+        "rating": "7.651",
+        "description": "Cooperatively program and pilot your mechs to defeat an army of marauding minions."
+    },
+    "The Crew: The Quest for Planet Nine": {
+        "rank": "77",
+        "name": "The Crew: The Quest for Planet Nine",
+        "year": "(2019)",
+        "rating": "7.649",
+        "description": "Go on many planet-discovering space missions in this cooperative trick-taking game."
+    },
+    "Kingdom Death: Monster": {
+        "rank": "78",
+        "name": "Kingdom Death: Monster",
+        "year": "(2015)",
+        "rating": "7.646",
+        "description": "Try to survive in a nightmarish world that lies under eternal darkness."
+    },
+    "Agricola (Revised Edition)": {
+        "rank": "79",
+        "name": "Agricola (Revised Edition)",
+        "year": "(2016)",
+        "rating": "7.641",
+        "description": "Help your farm to prosper in this updated, streamlined edition of the acclaimed game."
+    },
+    "Azul": {
+        "rank": "80",
+        "name": "Azul",
+        "year": "(2017)",
+        "rating": "7.629",
+        "description": "Artfully embellish the walls of your palace by drafting the most beautiful tiles."
+    },
+    "Race for the Galaxy": {
+        "rank": "81",
+        "name": "Race for the Galaxy",
+        "year": "(2007)",
+        "rating": "7.628",
+        "description": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices."
+    },
+    "Five Tribes: The Djinns of Naqala": {
+        "rank": "82",
+        "name": "Five Tribes: The Djinns of Naqala",
+        "year": "(2014)",
+        "rating": "7.621",
+        "description": "Move assassins, elders & builders through Naqala to claim oases & control djinns."
+    },
+    "Clank!: A Deck-Building Adventure": {
+        "rank": "83",
+        "name": "Clank!: A Deck-Building Adventure",
+        "year": "(2016)",
+        "rating": "7.612",
+        "description": "Claim your treasures but don't attract the dragon in this deck-building dungeon race."
+    },
+    "Eclipse: New Dawn for the Galaxy": {
+        "rank": "84",
+        "name": "Eclipse: New Dawn for the Galaxy",
+        "year": "(2011)",
+        "rating": "7.610",
+        "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy."
+    },
+    "Clank!: Catacombs": {
+        "rank": "85",
+        "name": "Clank!: Catacombs",
+        "year": "(2022)",
+        "rating": "7.603",
+        "description": "Deck-building adventure meets tile-laying in the newest incarnation of Clank!"
+    },
+    "Fields of Arle": {
+        "rank": "86",
+        "name": "Fields of Arle",
+        "year": "(2014)",
+        "rating": "7.602",
+        "description": "Construct dikes, drain bogs, harvest flax and tend to newborn animals in East Frisia."
+    },
+    "Aeon's End": {
+        "rank": "87",
+        "name": "Aeon's End",
+        "year": "(2016)",
+        "rating": "7.602",
+        "description": "Mages must reach their full potential to defend humanity from terrible monstrosities."
+    },
+    "Lords of Waterdeep": {
+        "rank": "88",
+        "name": "Lords of Waterdeep",
+        "year": "(2012)",
+        "rating": "7.590",
+        "description": "Deploy agents and hire adventurers to expand your control over the city of Waterdeep."
+    },
+    "Teotihuacan: City of Gods": {
+        "rank": "89",
+        "name": "Teotihuacan: City of Gods",
+        "year": "(2018)",
+        "rating": "7.589",
+        "description": "Use your worker dice to raise the legendary and breathtaking Pyramid of the Sun."
+    },
+    "Beyond the Sun": {
+        "rank": "90",
+        "name": "Beyond the Sun",
+        "year": "(2020)",
+        "rating": "7.586",
+        "description": "Collectively develop a tech tree to fuel new discoveries and colonize space."
+    },
+    "El Grande": {
+        "rank": "91",
+        "name": "El Grande",
+        "year": "(1995)",
+        "rating": "7.583",
+        "description": "Use your caballeros to control regions of medieval Spain, keeping clear of the King!"
+    },
+    "Through the Ages: A Story of Civilization": {
+        "rank": "92",
+        "name": "Through the Ages: A Story of Civilization",
+        "year": "(2006)",
+        "rating": "7.581",
+        "description": "Lead your civilization through strategic drafting of leaders, technologies, and more."
+    },
+    "Dominant Species": {
+        "rank": "93",
+        "name": "Dominant Species",
+        "year": "(2010)",
+        "rating": "7.573",
+        "description": "With an ice age approaching, which animals will best propagate, migrate, and adapt?"
+    },
+    "Revive": {
+        "rank": "94",
+        "name": "Revive",
+        "year": "(2022)",
+        "rating": "7.571",
+        "description": "Revive civilization, 5000 years after the fall of humankind."
+    },
+    "Concordia Venus": {
+        "rank": "95",
+        "name": "Concordia Venus",
+        "year": "(2018)",
+        "rating": "7.566",
+        "description": "Merchants build and trade throughout the Roman Empire to please the Gods."
+    },
+    "Robinson Crusoe: Adventures on the Cursed Island": {
+        "rank": "96",
+        "name": "Robinson Crusoe: Adventures on the Cursed Island",
+        "year": "(2012)",
+        "rating": "7.566",
+        "description": "Work together \u2014 with friends or with Friday \u2014 to survive on a deserted island."
+    },
+    "7 Wonders": {
+        "rank": "97",
+        "name": "7 Wonders",
+        "year": "(2010)",
+        "rating": "7.566",
+        "description": "Draft cards to develop your ancient civilization and build its Wonder of the World."
+    },
+    "The Voyages of Marco Polo": {
+        "rank": "98",
+        "name": "The Voyages of Marco Polo",
+        "year": "(2015)",
+        "rating": "7.565",
+        "description": "Using unique abilities, fulfill contracts and reach your goals along the Silk Road."
+    },
+    "The Search for Planet X": {
+        "rank": "99",
+        "name": "The Search for Planet X",
+        "year": "(2020)",
+        "rating": "7.561",
+        "description": "Plan, scan, and theorize to find a new planet at the edge of our solar system."
+    },
+    "SCOUT": {
+        "rank": "100",
+        "name": "SCOUT",
+        "year": "(2019)",
+        "rating": "7.558",
+        "description": "Poach your opponents' artists and outdo each other's circus shows."
+    }
+}

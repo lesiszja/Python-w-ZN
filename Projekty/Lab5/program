@@ -1,0 +1,37 @@
+import requests
+from bs4 import BeautifulSoup
+import json
+url = 'https://boardgamegeek.com/browse/boardgame'
+res = requests.get(url)
+soup = BeautifulSoup(res.text, 'html.parser')
+
+main_div = soup.find('div', class_='legacy')
+#print(main_div)
+
+boardgames_data = {}
+game_data = main_div.find_all('div', class_='table-responsive')
+#print(film_data)
+
+for game in game_data:
+    titles = game.find_all('a', class_='primary')
+    ranks = game.find_all('td', class_='collection_rank')
+    ratings = game.find_all('td', class_='collection_bggrating')
+    years = game.find_all('span', class_='smallerfont')
+
+    for i, (title, rank, rating, year) in enumerate(zip(titles, ranks, ratings, years)):
+        if i % 3 == 0:  
+            name = title.text.strip()
+            rank = rank.text.strip()
+            rating = rating.text.strip()
+            year = year.text.strip()
+            print(rank, name, year, rating)
+
+            boardgames_data[name] = {
+                'rank': rank,
+                'name': name,
+                'year': year,
+                'rating': rating    
+            }
+
+with open('boardgames.json', 'w') as file:
+    json.dump(boardgames_data, file, indent=4)

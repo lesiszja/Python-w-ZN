@@ -1,0 +1,28 @@
+Holographic projection is an imaging technique in which the light beam is modulated in such
+a way that not just its intensity, but also its phase can be controlled. As a result, the created
+wavefronts correspond to those that would be reflected by real objects. With the use of
+modern spatial light modulators, it is possible to create high-resolution colored holographic images
+in real time. One of the most promising out of those devices are liquid crystal on silicon
+modulators, due to the simplicity of their use, high diffraction efficiency and continuous phase
+modulation.
+This thesis investigates the relation between the structure of the liquid crystal pixel array of
+the modulators and the image duplicates observed in the reconstructions of Fourier holograms.
+The analysis proves their relation to the shape and the regular structure of said pixels. Two
+solutions to the aforementioned imperfections of the holographic technology are proposed.
+The primarily researched solution is the application of apodizing masks: amplitude, phase,
+or of mixed nature, in order to suppress the image duplicates. Amplitude masks with a Gaussian
+profile of the effective pixel were designed and fabricated. To verify the numerical results, an
+experimental-set-up was created, in which a desired change in intensity distribution of Fourier
+hologram reconstructions was observed. To increase the efficiency of the apodizing masks,
+phase masks were considered at the next step. Simple phase masks were proposed, which
+can redirect the intensity of the reconstruction beam into the area of a main image in off-axis
+projection. Both binary and kinoform masks were tested in the simulations, the first of which
+were tested in the experiment. Fabrication of the binary mask was attempted as well. The
+potential effects of combining the amplitude and phase masks were evaluated numerically.
+The possibility of decreasing the regularity of modulator pixels is discussed as well, researched
+in both simulations and experiment, and suppression of image duplicates is achieved
+at the cost of increased noise. Magneto-optic garnets are also suggested as a possible alternative
+medium for hologram recording.
+The obtained results prove the thesis that it is possible to achieve suppression of image duplicates
+in Fourier hologram reconstructions from liquid crystal on silicon spatial light modulators,
+either by randomization of the pixel structure, or by applying subpixel apodizing masks.
